@@ -3,7 +3,7 @@ onload = () => {
   const c = setTimeout(() => {
     document.body.classList.remove("not-loaded");
 
-    const titles = ('VIRTUAL FLOWER FOR U TEE!! KARON PAGURO KAKA DAWAT ANI NO HAHAHA').split('')
+    const titles = ('VIRTUAL FLOWER FOR U TEE!!').split('')
     const titleElement = document.getElementById('title');
     let index = 0;
 
